@@ -6,4 +6,8 @@ Python Virtual Environment steps for Windows:
 1. Create virtual environment: `$ py -m venv <NAME_OF_VIRTUAL_ENV>`
 2. Activate the virtual environment: `$ <NAME_OF_VIRTUAL_ENV>\Scripts\activate`
 3. Now you are in the virtual env, start installing packages (can use `$ pip install -r requirements.txt` to install all packages and their versions included in the requirements file)
-4. Once all installed, deactivate the virtual environment by `$ deactivate`)
+4. Once all installed, deactivate the virtual environment by `$ deactivate`
+
+Project Links:
+1. Streamlit API reference documentation: https://docs.streamlit.io/develop/api-reference 
+2. Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/ 
